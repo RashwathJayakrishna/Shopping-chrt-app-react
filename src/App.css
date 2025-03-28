@@ -7,3 +7,8 @@
   font-family: "Roboto",sans-serif;
   box-sizing: border-box;
 }
+
+.container{
+  padding: 20px;
+  
+}
